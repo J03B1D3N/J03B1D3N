@@ -19,8 +19,8 @@ Projects I have made:
 - https://j03b1d3n.github.io/Etch_a_Sketch/
 - https://j03b1d3n.github.io/Rock_Paper_Scissors/
 
--(REACT) https://j03b1d3n.github.io/memory-game/
--(REACT) https://j03b1d3n.github.io/cv-application/
+- (REACT) https://j03b1d3n.github.io/memory-game/
+- (REACT) https://j03b1d3n.github.io/cv-application/
 
 <!---
 J03B1D3N/J03B1D3N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
