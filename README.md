@@ -21,6 +21,7 @@ Projects I have made:
 
 - (REACT) https://j03b1d3n.github.io/memory-game/
 - (REACT) https://j03b1d3n.github.io/cv-application/
+- (REACT, TS) https://j03b1d3n.github.io/skate-shop-ts/cart
 
 <!---
 J03B1D3N/J03B1D3N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
