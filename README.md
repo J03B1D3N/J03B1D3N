@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything front-end.
 - 📫 How to reach me justas.lapinas.98@gmail.com
 
-Projects I have made:
+Projects I have made (for now only available on a PC/laptop):
 - https://j03b1d3n.github.io/weather-app/
 
 - https://j03b1d3n.github.io/To-Do-List/
