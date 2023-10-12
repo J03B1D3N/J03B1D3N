@@ -5,7 +5,8 @@
 - 📫 How to reach me justas.lapinas.98@gmail.com
 
 Projects I have made (for now only available on a PC/laptop):
-- (VUEJS, TAILWIND, POCKETBASE, VUEMATERIALS, VUEX) (MADE AS A FINAL INTERNSHIP PROJECT IN TELTONIKA NETWORKS IOT ACADEMY) https://j03b1d3n.github.io/CompanyContacts/#/
+- (VUEJS, TAILWIND, POCKETBASE, VUEMATERIALS, VUEX) https://j03b1d3n.github.io/CompanyContacts/#/
+  (MADE AS A FINAL INTERNSHIP PROJECT IN TELTONIKA NETWORKS IOT ACADEMY)
   Please read the readme.md in the original repo to understand how this app works: https://github.com/J03B1D3N/CompanyContacts
 
 - (REACT, TS, FIREBASE, BOOTSTRAP) (responsive) https://j03b1d3n.github.io/lets-chat/
@@ -27,7 +28,6 @@ Projects I have made (for now only available on a PC/laptop):
 - https://j03b1d3n.github.io/Calculator/
 - https://j03b1d3n.github.io/Etch_a_Sketch/
 - https://j03b1d3n.github.io/Rock_Paper_Scissors/
-- 
 <!---
 J03B1D3N/J03B1D3N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
