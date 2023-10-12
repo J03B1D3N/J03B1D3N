@@ -5,8 +5,8 @@
 - 📫 How to reach me justas.lapinas.98@gmail.com
 
 Projects I have made (for now only available on a PC/laptop):
-- (VUEJS, TAILWIND, POCKETBASE, VUEMATERIALS, VUEX) https://j03b1d3n.github.io/CompanyContacts/#/
-  (MADE AS A FINAL INTERNSHIP PROJECT IN TELTONIKA NETWORKS IOT ACADEMY)
+- (VUEJS, TAILWIND, POCKETBASE, VUEMATERIALS, VUEX) https://j03b1d3n.github.io/CompanyContacts/#/  
+  This project was made as a final project of my front-end internship at Teltonika Networks IoT academy  
   Please read the readme.md in the original repo to understand how this app works: https://github.com/J03B1D3N/CompanyContacts
 
 - (REACT, TS, FIREBASE, BOOTSTRAP) (responsive) https://j03b1d3n.github.io/lets-chat/
