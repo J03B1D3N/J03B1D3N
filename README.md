@@ -6,8 +6,8 @@
 
 Projects I have made (for now only available on a PC/laptop):
 - (VUEJS, TAILWIND, POCKETBASE, VUEMATERIALS, VUEX) https://j03b1d3n.github.io/CompanyContacts/#/
-  (MADE AS A FINAL INTERNSHIP PROJECT IN TELTONIKA NETWORKS IOT ACADEMY)
-  Please read the readme.md in the original repo to understand how this app works: https://github.com/J03B1D3N/CompanyContacts
+- (MADE AS A FINAL INTERNSHIP PROJECT IN TELTONIKA NETWORKS IOT ACADEMY)
+- Please read the readme.md in the original repo to understand how this app works: https://github.com/J03B1D3N/CompanyContacts
 
 - (REACT, TS, FIREBASE, BOOTSTRAP) (responsive) https://j03b1d3n.github.io/lets-chat/
 - (REACT, TS) https://j03b1d3n.github.io/skate-shop-ts/
