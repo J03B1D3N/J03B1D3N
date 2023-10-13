@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-Dev
 - 🌱 I’m currently learning with The Odin Project
 - 💞️ I’m looking to collaborate on anything front-end.
-- 📫 How to reach me justas.lapinas.98@gmail.com
+- 📫 Reach me at justas.lapinas.98@gmail.com
 
 Projects I have made (for now only available on a PC/laptop):
 - (VUEJS, TAILWIND, POCKETBASE, VUEMATERIALS, VUEX) https://j03b1d3n.github.io/CompanyContacts/#/  
